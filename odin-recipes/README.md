@@ -1,0 +1,1 @@
+Odin projects regarding recipes to get a hold of html basics 
